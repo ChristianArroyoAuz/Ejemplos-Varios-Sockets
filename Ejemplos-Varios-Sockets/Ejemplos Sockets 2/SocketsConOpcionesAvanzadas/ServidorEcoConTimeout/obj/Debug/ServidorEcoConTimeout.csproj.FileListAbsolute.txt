@@ -1,0 +1,7 @@
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\SocketsConOpcionesAvanzadas\ServidorEcoConTimeout\bin\Debug\ServidorEcoConTimeout.exe.config
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\SocketsConOpcionesAvanzadas\ServidorEcoConTimeout\bin\Debug\ServidorEcoConTimeout.exe
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\SocketsConOpcionesAvanzadas\ServidorEcoConTimeout\bin\Debug\ServidorEcoConTimeout.pdb
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\SocketsConOpcionesAvanzadas\ServidorEcoConTimeout\obj\Debug\ServidorEcoConTimeout.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\SocketsConOpcionesAvanzadas\ServidorEcoConTimeout\obj\Debug\ServidorEcoConTimeout.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\SocketsConOpcionesAvanzadas\ServidorEcoConTimeout\obj\Debug\ServidorEcoConTimeout.exe
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\SocketsConOpcionesAvanzadas\ServidorEcoConTimeout\obj\Debug\ServidorEcoConTimeout.pdb

@@ -1,0 +1,6 @@
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerAsync\Protocolo\bin\Debug\Protocolo.dll
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerAsync\Protocolo\bin\Debug\Protocolo.pdb
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerAsync\Protocolo\obj\Debug\Protocolo.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerAsync\Protocolo\obj\Debug\Protocolo.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerAsync\Protocolo\obj\Debug\Protocolo.dll
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerAsync\Protocolo\obj\Debug\Protocolo.pdb

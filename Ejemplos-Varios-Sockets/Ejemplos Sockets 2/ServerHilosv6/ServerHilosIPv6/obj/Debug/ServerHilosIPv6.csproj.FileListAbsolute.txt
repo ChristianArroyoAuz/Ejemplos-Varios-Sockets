@@ -1,0 +1,7 @@
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerHilosv6\ServerHilosIPv6\bin\Debug\ServerHilosIPv6.exe.config
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerHilosv6\ServerHilosIPv6\bin\Debug\ServerHilosIPv6.exe
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerHilosv6\ServerHilosIPv6\bin\Debug\ServerHilosIPv6.pdb
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerHilosv6\ServerHilosIPv6\obj\Debug\ServerHilosIPv6.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerHilosv6\ServerHilosIPv6\obj\Debug\ServerHilosIPv6.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerHilosv6\ServerHilosIPv6\obj\Debug\ServerHilosIPv6.exe
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerHilosv6\ServerHilosIPv6\obj\Debug\ServerHilosIPv6.pdb

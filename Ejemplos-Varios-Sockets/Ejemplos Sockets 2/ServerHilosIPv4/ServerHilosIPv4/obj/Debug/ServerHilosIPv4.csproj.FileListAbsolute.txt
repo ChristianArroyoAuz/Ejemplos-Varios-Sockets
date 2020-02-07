@@ -1,0 +1,7 @@
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerHilosIPv4\ServerHilosIPv4\bin\Debug\ServerHilosIPv4.exe.config
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerHilosIPv4\ServerHilosIPv4\bin\Debug\ServerHilosIPv4.exe
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerHilosIPv4\ServerHilosIPv4\bin\Debug\ServerHilosIPv4.pdb
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerHilosIPv4\ServerHilosIPv4\obj\Debug\ServerHilosIPv4.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerHilosIPv4\ServerHilosIPv4\obj\Debug\ServerHilosIPv4.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerHilosIPv4\ServerHilosIPv4\obj\Debug\ServerHilosIPv4.exe
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\ServerHilosIPv4\ServerHilosIPv4\obj\Debug\ServerHilosIPv4.pdb

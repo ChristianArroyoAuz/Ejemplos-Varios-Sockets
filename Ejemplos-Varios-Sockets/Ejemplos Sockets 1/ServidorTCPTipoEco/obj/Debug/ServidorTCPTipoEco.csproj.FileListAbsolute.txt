@@ -1,0 +1,6 @@
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 1\ServidorTCPTipoEco\bin\Debug\ServidorTCPTipoEco.exe.config
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 1\ServidorTCPTipoEco\bin\Debug\ServidorTCPTipoEco.exe
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 1\ServidorTCPTipoEco\bin\Debug\ServidorTCPTipoEco.pdb
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 1\ServidorTCPTipoEco\obj\Debug\ServidorTCPTipoEco.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 1\ServidorTCPTipoEco\obj\Debug\ServidorTCPTipoEco.exe
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 1\ServidorTCPTipoEco\obj\Debug\ServidorTCPTipoEco.pdb

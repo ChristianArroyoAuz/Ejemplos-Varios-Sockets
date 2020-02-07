@@ -1,0 +1,7 @@
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\bin\Debug\ClienteEcoNoBloquante.exe.config
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\bin\Debug\ClienteEcoNoBloquante.exe
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\bin\Debug\ClienteEcoNoBloquante.pdb
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\obj\Debug\ClienteEcoNoBloquante.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\obj\Debug\ClienteEcoNoBloquante.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\obj\Debug\ClienteEcoNoBloquante.exe
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\obj\Debug\ClienteEcoNoBloquante.pdb

@@ -1,0 +1,6 @@
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 1\ClienteTCP_2\bin\Debug\ClienteTCP_2.exe.config
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 1\ClienteTCP_2\bin\Debug\ClienteTCP_2.exe
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 1\ClienteTCP_2\bin\Debug\ClienteTCP_2.pdb
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 1\ClienteTCP_2\obj\Debug\ClienteTCP_2.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 1\ClienteTCP_2\obj\Debug\ClienteTCP_2.exe
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 1\ClienteTCP_2\obj\Debug\ClienteTCP_2.pdb

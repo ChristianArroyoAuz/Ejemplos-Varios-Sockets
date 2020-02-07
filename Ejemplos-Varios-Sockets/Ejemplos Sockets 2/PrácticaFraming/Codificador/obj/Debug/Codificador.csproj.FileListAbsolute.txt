@@ -1,0 +1,6 @@
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\PrácticaFraming\Codificador\bin\Debug\Codificador.dll
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\PrácticaFraming\Codificador\bin\Debug\Codificador.pdb
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\PrácticaFraming\Codificador\obj\Debug\Codificador.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\PrácticaFraming\Codificador\obj\Debug\Codificador.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\PrácticaFraming\Codificador\obj\Debug\Codificador.dll
+C:\Users\Christian Arroyo\Desktop\Ejemplos-Varios-Sockets\Ejemplos Sockets 2\PrácticaFraming\Codificador\obj\Debug\Codificador.pdb
